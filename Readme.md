@@ -250,10 +250,8 @@ MunicipalServicesApp/
 │   ├── LocalEventsForm.cs
 │   └── RecommendedEventsForm.cs
 │
-├── Models/
-│   └── EventInfo.cs
-│
-├── Resources/
+
+├── img/
 │   └── (Icons and images)
 │
 └── README.md
@@ -284,10 +282,22 @@ This project was completed individually by Cherika Bodde (st10252644) for PROG73
 
 ---
 
-## Contact Information
-- **Student:** Cherika Bodde
-- **Student Number:** st10252644
-- **Module:** PROG7312 - Programming 3B
-- **Institution:** The Independent Institute of Education
-- **Date Submitted:** [Insert Date]
+## References
+- C# Corner, 2023. Understanding Data Structures in C#. Available at: https://www.c-sharpcorner.com/article/data-structures-in-c-sharp/ [Accessed 10 October 2025].
+- Department of Cooperative Governance and Traditional Affairs, 2023. Improving Municipal Service Delivery. Republic of South Africa. Available at: https://www.cogta.gov.za/ [Accessed 8 October 2025].
+- DotNetPerls, 2024. C# SortedSet Examples. Available at: https://www.dotnetperls.com/sortedset [Accessed 11 October 2025].
+- FontAwesome, 2024. FontAwesome.Sharp Documentation. Available at: https://github.com/awesome-inc/FontAwesome.Sharp [Accessed 13 October 2025].
+- GeeksforGeeks, 2024. Data Structures Tutorial. Available at: https://www.geeksforgeeks.org/data-structures/ [Accessed 9 October 2025].
+- Jamro, M., 2024. C# Data Structures and Algorithms - Second Edition.
+- Material Design, 2024. Design Guidelines. Google. Available at: https://material.io/design [Accessed 12 October 2025].
+- Microsoft, 2024. Dictionary<TKey,TValue> Class (System.Collections.Generic). Microsoft Learn. Available at: https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.dictionary-2 [Accessed 13 October 2025].
+- Microsoft, 2024. Queue<T> Class (System.Collections.Generic). Microsoft Learn. Available at: https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.queue-1 [Accessed 13 October 2025].
+- Microsoft, 2024. SortedDictionary<TKey,TValue> Class. Microsoft Learn. Available at: https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.sorteddictionary-2 [Accessed 13 October 2025].
+- Microsoft, 2024. Stack<T> Class (System.Collections.Generic). Microsoft Learn. Available at: https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.stack-1 [Accessed 13 October 2025].
+- Microsoft, 2024. Windows Forms Overview. Microsoft Learn. Available at: https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/ [Accessed 12 October 2025].
+- Ricci, F., Rokach, L. and Shapira, B., 2022. Recommender Systems Handbook. 3rd ed. New York: Springer. DOI: 10.1007/978-1-0716-2197-4
+- Stack Overflow, 2024. When to use Stack vs Queue in C#?. Available at: https://stackoverflow.com/questions/3825050/when-to-use-stack-vs-queue [Accessed 11 October 2025].
+- Tutorialspoint, 2024. C# - Collections. Available at: https://www.tutorialspoint.com/csharp/csharp_collections.htm [Accessed 9 October 2025].
+- Towards Data Science, 2023. Building a Simple Recommendation System. Medium. Available at: https://towardsdatascience.com/building-a-recommendation-system-e6cb0c1e5673 [Accessed 9 October 2025].
+
 
