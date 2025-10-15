@@ -2,7 +2,8 @@
 
 **Student Name:** Cherika Bodde  
 **Student Number:** st10252644  
-**GitHub Repository:** (https://github.com/ST10252644/MunicipalAppService.git) 
+**GitHub Repository:** https://github.com/ST10252644/MunicipalAppService.git
+
 **Video Demonstration:** 
 
 ---
